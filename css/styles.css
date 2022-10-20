@@ -135,7 +135,6 @@ img{
 }
 
 .about-image, .method-image, .clients-image, .contact-image{
-   background-color: black;
    grid-column: 1 / span all;
    max-height: 500px;
    overflow: hidden;
