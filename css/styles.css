@@ -61,7 +61,7 @@ nav a:hover{
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
-  position: relative;
+  position: absolute;
 }
 
 /*Your code here transform: translateY(0);*/
@@ -131,7 +131,6 @@ img{
 
 .about, .method, .clients, .contact{
   grid-column: 2 / span 1;
-  grid-row: auto / span 1;
   /* See documentation for mobile view */
 }
 
