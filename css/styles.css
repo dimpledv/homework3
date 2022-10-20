@@ -105,7 +105,7 @@ header{
   background-image: url('../images/header.jpg');
   background-color: #dddddd #858585 #707070 #b3b3b3;
   grid-row: 2 / span 1;
-  grid-column: 1 / span 1;
+  grid-column: 1 / span all;
 }
 
 header p{
