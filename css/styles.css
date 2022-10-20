@@ -127,6 +127,10 @@ img{
   width: 100%;
 }
 
+.header p{
+  grid-column: 1 / span all;
+}
+
 .about, .method, .clients, .contact{
   grid-column: 2 / span 1;
   grid-row: auto / span 1;
