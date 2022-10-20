@@ -100,7 +100,7 @@ header{
   background-repeat: no-repeat; /* Parallax effect */
   background-size: cover;       /* Parallax effect */
   color: white;
-  height: 400px;                /* Parallax effect */
+  min-height: 400px;                /* Parallax effect */
   /* Set background-image to header.jpg in the images folder */
   background-image: url('../images/header.jpg');
   background-color: #dddddd #858585 #707070 #b3b3b3;
